@@ -82,3 +82,7 @@
   object-fit: cover;
   margin-bottom: 20px;
 }
+.link {
+  color: white;
+  text-decoration: none;
+}

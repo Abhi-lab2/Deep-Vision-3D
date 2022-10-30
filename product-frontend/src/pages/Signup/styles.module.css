@@ -19,12 +19,14 @@
 }
 
 .form_container {
+  margin : auto;
   display: flex;
   margin-top: 45px;
   width: 800px;
   height: 450px;
   background-color: white;
   box-shadow: 3px 4px 36px -6px rgba(0, 0, 0, 0.4);
+  border: 2px solid green;
   border-radius: 50px;
 }
 
@@ -37,10 +39,11 @@
 }
 
 .img {
-  width: 160%;
+  width: 198%;
   position: absolute;
-  left: -125px;
+  left: -10px;
   top: -50px;
+  height: 680px;
 }
 
 .right {

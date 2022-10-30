@@ -13,7 +13,7 @@ function Signup() {
       <h1 className={styles.heading}>Sign up Form</h1>
       <div className={styles.form_container}>
         <div className={styles.left}>
-          <img className={styles.img} src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/streams/2013/March/130326/1C6639340-google-logo.jpg" alt="signup" />
+          <img className={styles.img} src="https://static.vecteezy.com/system/resources/previews/007/164/537/original/fingerprint-identity-sensor-data-protection-system-podium-hologram-blue-light-and-concept-free-vector.jpg" alt="signup" />
         </div>
         <div className={styles.right}>
           <h2 className={styles.from_heading}>Create Account</h2>
@@ -28,10 +28,10 @@ function Signup() {
           <p className={styles.text}>or</p>
           <button className={styles.google_btn} onClick={googleAuth}>
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/streams/2013/March/130326/1C6639340-google-logo.jpg" alt="google icon" />
-            <span>Sing up with Google</span>
+            <span>Sign up with Google</span>
           </button>
           <p className={styles.text}>
-            Already Have Account ? <Link to="/login">Log In</Link>
+            Already Have An Account ? <Link to="/login">Log In</Link>
           </p>
         </div>
       </div>
