@@ -1,11 +1,12 @@
 # Deep-Vision-3D
 
-To run the frontEnd code - 
+### To run the frontEnd code
 
 • cd product-frontend
 • npm run start - this will start the FE React.
 
-To run the Backend -
+
+### To run the Backend
 
 • cd backend
 • npm run start - this will run the nodemon server.
